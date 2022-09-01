@@ -2,7 +2,8 @@ clear all
 clc
 
 %%%Must download data files and API from ChannelPedia.com (https://channelpedia.epfl.ch/)
-%%%%Downlaod the 
+%%%%Requires nwbGetProtocolTraces.m to be downloaded. and NWB files for
+%%%%cells interested in analyzing.
 
 %%%%List of Kchannel data downloaded and looked at
 %Kv1.1=[8018,9391,9395,9405,9411,9416,9412,9413,9414]
